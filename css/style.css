@@ -147,3 +147,12 @@ header {
 .note .bi-file-earmark-plus {
   top: 40px;
 }
+
+.note .bi-x-lg:hover,
+.note .bi-file-earmark-plus:hover {
+  color: #FFF;
+}
+
+.note.fixed {
+  background-color: #3c3c3f;
+}
